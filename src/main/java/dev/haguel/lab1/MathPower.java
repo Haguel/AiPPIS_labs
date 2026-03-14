@@ -14,4 +14,8 @@ public class MathPower {
         // if the exponent is negative, return the reciprocal of the result
         return (exponent < 0) ? 1.0 / result : result;
     }
+
+    private void mergeMethod() {
+        System.out.println("This is a merge conflict demonstration method.");
+    }
 }
