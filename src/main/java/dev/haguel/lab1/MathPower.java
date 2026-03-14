@@ -16,6 +16,6 @@ public class MathPower {
     }
 
     private void mergeMethod() {
-        System.out.println("This is a merge conflict demonstration method.");
+        System.out.println("Unexpected changes");
     }
 }
