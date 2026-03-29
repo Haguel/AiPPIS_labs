@@ -24,5 +24,7 @@ public class Lab1Application implements CommandLineRunner {
         System.out.println(base + " raised to the power of " + exp + " is: " + result);
 
         System.out.println("2 raised to the power of -3 is: " + mathPower.power(2.0, -3));
+
+        System.out.println("Lombok toString: " + mathPower.toString());
     }
 }

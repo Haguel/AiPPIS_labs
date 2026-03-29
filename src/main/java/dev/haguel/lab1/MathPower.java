@@ -1,5 +1,10 @@
 package dev.haguel.lab1;
 
+import lombok.EqualsAndHashCode;
+import lombok.ToString;
+
+@ToString
+@EqualsAndHashCode
 public class MathPower {
     public static double power(double base, int exponent) {
         double result = 1.0;
