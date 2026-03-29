@@ -21,6 +21,6 @@ public class MathPower {
     }
 
     private void mergeMethod() {
-        System.out.println("A change made to create merge conflict");
+        System.out.println("Unexpected changes");
     }
 }
